@@ -1,6 +1,6 @@
 #  🍽️ Weekday 1 Menu – Healthy Meal Plan
 
-Weekday 1 offers a balanced mix of nutrient-rich meals designed to keep your energy levels stable, support overall wellness, and provide variety throughout the day.
+### Weekday 1 offers a balanced mix of nutrient-rich meals designed to keep your energy levels stable, support overall wellness, and provide variety throughout the day.
 Each meal includes a specific eating time, dish name, and a YouTube recipe link so you can prepare it with ease.
 
 ## This plan is perfect for:
